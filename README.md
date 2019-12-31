@@ -4,6 +4,9 @@
 ### Playlists
 - [Java Tutorials - Caleb Curry](https://www.youtube.com/playlist?list=PL_c9BZzLwBRKIMP_xNTJxi9lIgQhE51rF)
 
+### Crash Course Videos
+- [Java Tutorial For Beginners[2019] - Programming with Mosh](https://youtu.be/eIrMbAQSU34)
+
 ## Articles
 
 ## Courses
